@@ -7,7 +7,7 @@ int main() {
       
     cout << "Nama    : Nadhya Shaliha Ridha"; cout << endl;
     cout << "NIM     : 202131075"; cout <<endl;
-    cout << "=========================="; cout << endl;
+    cout << "==============================="; cout << endl;
 
     cout << "Masukkan sebuah angka: "; cin >> angka;
     cout << endl;
